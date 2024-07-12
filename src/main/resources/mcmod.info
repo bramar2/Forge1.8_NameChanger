@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "namechanger",
+    "name": "NameChanger",
+    "description": "This mod allows you to modify your username, including prefix, name and suffix! (Client-side only)",
+    "credits": "Licensed under the MIT License. More info at opensource.org",
+    "version": "2.0",
+    "mcversion": "1.8",
+    "authorList": [
+      "bramar"
+    ]
+  }
+]
